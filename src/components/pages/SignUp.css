@@ -1,0 +1,15 @@
+.sign-up {
+    font-size: 100px;
+}
+ 
+ @media screen and (max-width: 470px) {
+    .sign-up {
+        font-size: 70px;
+    }
+  }
+
+  @media screen and (max-width: 330px) {
+    .sign-up {
+        font-size: 50px;
+    }
+  }
